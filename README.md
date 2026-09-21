@@ -5,10 +5,10 @@ Website developer. Additionally, I study and write programs in C++.
 - **Web Development:** Creating websites.
 - **System Programming:** Basic development in C++.
 
-## Languages and tools
+## Languages 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,git,bootstrap,npm,nodejs" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,git," />
   </a>
 </p>
 
