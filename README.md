@@ -1,5 +1,5 @@
-# Hi, I'm Rin
-Website developer. Additionally, I study and write programs in C++.
+<h1 align="center"> Hi, I'm Rin </h1>
+<p align="center"> Website developer. Additionally, I study and write programs in C++.</p>
 
 ## About me
 - **Web Development:** Creating websites.
@@ -8,7 +8,7 @@ Website developer. Additionally, I study and write programs in C++.
 ## Languages 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,cpp,git" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,cpp" />
   </a>
 </p>
 
