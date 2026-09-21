@@ -8,7 +8,7 @@ Website developer. Additionally, I study and write programs in C++.
 ## Languages and tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,git,postgres,angular,bootstrap,npm,nodejs" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,git,с++,bootstrap,npm,nodejs" />
   </a>
 </p>
 
