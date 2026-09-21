@@ -1,14 +1,21 @@
 # Hi, I'm Rin
 Website developer. Additionally, I study and write programs in C++.
 
-## Areas of Activity
+## About me
 - **Web Development:** Creating websites.
 - **System Programming:** Basic development in C++.
 
 ## Languages 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,git," />
+    <img src="https://skillicons.dev/icons?i=js,html,css,cpp,git" />
+  </a>
+</p>
+
+## Development Environments
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio" />
   </a>
 </p>
 
